@@ -1,0 +1,27 @@
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+	padding: 20px;
+}
+.card img {
+  width: 150px;
+  height: 200px;
+}
+.card a {
+  padding: auto;
+  margin-right: 20px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: ;
+}
+.card{
+  flex-basis: 250px;
+  flex-grow: 1;
+  margin: 10px;
+  border: 2px solid #ccc; 
+  border-radius: 10px; 
+}
